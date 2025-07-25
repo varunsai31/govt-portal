@@ -7,15 +7,15 @@ A simple, multilingual Tkinter-based desktop application to provide quick and or
 
 ## ✨ Features
 
-- ✅ **One-Click Access** to essential services like:
-  - Aadhaar, PAN, DigiLocker, Passport, UPI, Voter ID, and more
-- 🌐 **Multilingual UI** with support for **all official Indian languages**, including English
-- 📚 **Category-Wise Layout** (e.g., Identity, Finance, Education, Health)
-- 🔍 **Built-in Search Bar** to instantly filter services
-- 🧠 **Icon & Text Switching** based on selected language
-- 👴 **User-Friendly Design** for all age groups, including the illiterate
-- 🖥️ Built entirely with **Python + Tkinter**
-- ⚙️ **One-file `.exe` build** with PyInstaller (Windows-ready)
+- One-Click Access** to essential services like:
+- Aadhaar, PAN, DigiLocker, Passport, UPI, Voter ID, and more
+- Multilingual UI** with support for **all official Indian languages**, including English
+- Category-Wise Layout** (e.g., Identity, Finance, Education, Health)
+- Built-in Search Bar** to instantly filter services
+- Icon & Text Switching** based on selected language
+- User-Friendly Design** for all age groups, including the illiterate
+- Built entirely with **Python + Tkinter**
+- One-file `.exe` build** with PyInstaller (Windows-ready)
 
 ---
 
